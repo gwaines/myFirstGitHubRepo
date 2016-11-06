@@ -4,6 +4,6 @@
 
 int main()
 {
-    printf("Hello Really Cruel World\n");
+    printf("Hello Not So Really Cruel World\n");
 }
 
